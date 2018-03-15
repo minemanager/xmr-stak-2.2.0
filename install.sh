@@ -4,3 +4,4 @@ sudo cmake -DCMAKE_INSTALL_PREFIX=/usr/local/bin/miners/xmr-stak-2.2.0/ -DCUDA_E
 sudo make install
 cd ..
 cd ..
+reboot
